@@ -1,25 +1,11 @@
 # Leetcode数据库题目做题记录
 
-`EASY`
-= 
-| 序号        | 题目           |
-| ------------- |:-------------:|
-| 星期一      |G1008 |
-|  星期二  | G1006      |
-|  星期三   | G1007    | 
+[`EASY`](https://github.com/llewyn33/leetcode_database/tree/main/Easy)
+=
 
-`Medium`
+[`Medium`](https://github.com/llewyn33/leetcode_database/tree/main/Medium)
 = 
-| 序号        | 题目           |
-| ------------- |:-------------:|
-| 星期一      |G1008 |
-|  星期二  | G1006      |
-|  星期三   | G1007    | 
 
 `Hard`
 = 
-| 序号        | 题目           |
-| ------------- |:-------------:|
-| 星期一      |G1008 |
-|  星期二  | G1006      |
-|  星期三   | G1007    | 
+
